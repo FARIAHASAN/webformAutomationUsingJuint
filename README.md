@@ -26,3 +26,8 @@ This project involves performing unit testing on various fields and components o
 ## How to run?
 ### Execute following commands:
 - ``` git clone https://github.com/FARIAHASAN/webformAutomationUsingJuint.git ```
+
+## Report
+![image](https://github.com/user-attachments/assets/ab3a5b45-247b-4584-9372-e48a3edeeb54)
+
+
