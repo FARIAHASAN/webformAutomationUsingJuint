@@ -25,4 +25,4 @@ This project involves performing unit testing on various fields and components o
 - Selenium
 ## How to run?
 ### Execute following commands:
-- ``` git clone https://github.com/FARIAHASAN/demo-transaction-api-jmeter.git ```
+- ``` git clone https://github.com/FARIAHASAN/webformAutomationUsingJuint.git ```
